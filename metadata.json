@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Obras",
+  "description": "Aplicativo para gestão de obras residenciais de até 1500m², integrando cronograma, custos, medições e relatórios fotográficos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
